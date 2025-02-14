@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #d9d9ec;
+    background-color: #6bacbf;
     margin: 0;
     padding: 20px;
     min-height: 100vh;
@@ -44,8 +44,8 @@ h1 {
 
 .botao-imagem img {
     width: 100%;
-    max-width: 200px;
-    height: 150px;
+    max-width: 48px;
+    height: 48px;
     object-fit: fill;
     border-radius: 10px;
     margin-bottom: 15px;
